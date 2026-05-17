@@ -1,8 +1,6 @@
 # Enterprise SOC Home Lab
 
-<p align="center">
-  <img src="assets/banner.png" alt="SOC Lab Banner" width="800"/>
-</p>
+![My Image](SOC-Banner.png)
 
 > **Enterprise-Grade Security Operations Center Lab for Detection Engineering, Threat Hunting, and Incident Response Mastery**
 
