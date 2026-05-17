@@ -26,7 +26,7 @@ A production-ready home lab environment designed for security professionals to b
 
 ### Hub-and-Spoke Topology
 
-![Project Architecture](./assets/soc-architecture.png)
+!./assets/soc-architecture.png
 
 ### Data Flow Pipeline
 
